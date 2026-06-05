@@ -1,0 +1,13 @@
+jamal@Jamals-MacBook-Pro-2 Python work % "/Users/jamal/Documents/2nd Year/2nd_Sem/Intro To AI/PYthon practice/Pyth
+on work/ai_env/bin/python" "/Users/jamal/Documents/2nd Year/2nd_Sem/Intro To AI/PYthon practice/Python work/enviro
+nment_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.13.0
+✅ OS: Darwin 25.2.0
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (/Users/jamal/Documents/2nd Year/2nd_Sem/Intro To AI/PYthon practice/Python work/ai_env)
